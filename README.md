@@ -98,6 +98,28 @@ OFF-Delay Timer:
 ![OFF delay 2](https://github.com/user-attachments/assets/06c5b563-8b50-4268-8a22-2f4842dfa973)
 
 
+Real Life Examples:
+
+1.Develop a ladder logic that leads sensory data from two sensors and initialise the timer and switch on the timer 5s of delay.
+
+
+![Screenshot 2025-03-06 161233](https://github.com/user-attachments/assets/e791706b-1de2-4378-998b-16c3fcea49fe)
+
+
+![Screenshot 2025-03-06 161248](https://github.com/user-attachments/assets/3d8e3c6a-0581-4417-aad7-df536909e178)
+
+
+2.Develop a ladder logic timer block to initialize the process of stamping where the operator is two hands to switch on the machine 
+the stamping duration starts after 5s. Select appropriate timer block.
+
+
+![Screenshot 2025-03-06 161604](https://github.com/user-attachments/assets/d3679371-885f-4ced-9d33-ca0cc6ccbf9a)
+
+
+![Screenshot 2025-03-06 161643](https://github.com/user-attachments/assets/0a804d3a-0b6c-41f6-a342-0a4c21849972)
+
+
+
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
 The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic.
